@@ -1,3 +1,5 @@
+**Apache Ignite örneği çalıştırabilmek için önce yüklemeniz gerekiyor (2.5.0 versiyonu yükleyin) nasıl yükleneceği hakkında bilgi edinmek için [buraya](https://github.com/mehmetozanguven/ApacheIgniteMyDocumentation/blob/master/MehmetOzanGuven_InternshipReport.md) bakabilirsiniz**
+
 **JSON dosyasını okuduğum dosya yolu ve Apache Ignite için gereki olan .xml dosyasını eğer kendi bilgisayarınızda çalıştıracak iseniz, dosya yolunu değiştirmeniz gerekecek.**
 
 Bu projede ki amacım :
